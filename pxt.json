@@ -1,5 +1,6 @@
 {
     "name": "23-1001-1910-makecode-microbit-test-frontandbackend-simplifycode",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
