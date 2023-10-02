@@ -1,0 +1,30 @@
+{
+    "name": "RQ100-Check-BasicDiagnostics-ServoMotors_Left&Right",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "22-0726-2140-makecode_customblock-servocontinuous-ef_wukong_pinsblue": "github:eande-jasonc1025/22-0726-2140-makecode_customblock-servocontinuous-ef_wukong_pinsblue#v6.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v5.0.12",
+        "tag": "v5.0.12",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/97491d6832cccab6b5bdc05b58e4c6b5dcc18cdd",
+        "target": "6.0.18",
+        "pxt": "8.0.7",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
